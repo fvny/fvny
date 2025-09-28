@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=css3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/C++-333?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/React-333?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
 </p>
 
 ---
