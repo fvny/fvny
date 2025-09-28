@@ -9,10 +9,10 @@
 
 ### 🧠 About Me
 
-- 👋 I'm **qxn**  
+- 👋 I'm **fv**  
 - 📍 From **Czechia 🇨🇿**
 - 💻 Focused on web & game development  
-- 🌱 Currently learning **C++**
+- 🌱 Currently learning **C#**
 
 ---
 
@@ -43,14 +43,9 @@
   </thead>
   <tbody>
     <tr>
-      <td>Discord Bot</td>
-      <td>Custom Discord bot with ticket system and 10+ commands</td>
-      <td>JS</td>
-    </tr>
-    <tr>
-      <td>FiveM Unit Check</td>
-      <td>Optimized unit check script with sounds and animations</td>
-      <td>JS</td>
+      <td>FiveM Roleplay Server</td>
+      <td>Whisper Roleplay | whsrp.eu </td>
+      <td>-</td>
     </tr>
   </tbody>
 </table>
