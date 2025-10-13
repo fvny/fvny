@@ -1,4 +1,4 @@
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=fvny)
 <h1 align="center">Hi there 👋, I'm <span style="color:#4290FF">.fvny</span></h1>
 <h3 align="center">🇨🇿 Czech | 💻 Developer</h3>
 
