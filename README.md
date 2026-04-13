@@ -10,8 +10,7 @@
 
 ### 🧠 About Me
 
-- 👋 I'm **fv**  
-- 📍 From **Czechia 🇨🇿**
+- 👋 I'm **fv** - 📍 From **Czechia 🇨🇿**
 - 💻 Focused on web & game development  
 - 🌱 Currently learning **C#**
 
@@ -39,18 +38,14 @@
     <tr>
       <th>Project</th>
       <th>Description</th>
-      <th>Language</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>FiveM Roleplay Server</td>
       <td>Whisper Roleplay | whsrp.eu </td>
-      
     </tr>
   </tbody>
 </table>
 
 </div>
-
-
