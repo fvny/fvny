@@ -46,7 +46,7 @@
     <tr>
       <td>FiveM Roleplay Server</td>
       <td>Whisper Roleplay | whsrp.eu </td>
-      <td>-</td>
+      
     </tr>
   </tbody>
 </table>
