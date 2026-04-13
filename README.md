@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=css3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/React-333?style=for-the-badge&logo=react&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/React-333?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 ---
@@ -42,8 +42,12 @@
   </thead>
   <tbody>
     <tr>
-      <td>FiveM Roleplay Server</td>
-      <td>Whisper Roleplay | whsrp.eu </td>
+      <td><b>Retrovax</b></td>
+      <td>Senior Developer | <i>Currently up and running</i></td>
+    </tr>
+    <tr>
+      <td>Whisper Roleplay</td>
+      <td>Scrapped</td>
     </tr>
   </tbody>
 </table>
