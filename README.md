@@ -46,6 +46,10 @@
       <td>Senior Developer | <i>Ended - 100-150 active players</i></td>
     </tr>
     <tr>
+            <td><b>Fluid Developmen</b></td>
+      <td>Developer | Active - https://forum.cfx.re/u/fidu/</i></td>
+    </tr>
+    <tr>
       <td>Whisper Roleplay</td>
       <td>Scrapped</td>
     </tr>
