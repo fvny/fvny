@@ -42,7 +42,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>Retrovax</b></td>
+      <td><b>Retrovax | FiveM</b></td>
       <td>Senior Developer | <i>Ended - 100-150 active players</i></td>
     </tr>
     <tr>
