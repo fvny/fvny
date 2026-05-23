@@ -51,7 +51,7 @@
     </tr>
     <tr>
       <td>Whisper Roleplay</td>
-      <td>Scrapped</td>
+      <td>Head Developer | Scrapped</td>
     </tr>
   </tbody>
 </table>
