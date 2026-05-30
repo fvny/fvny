@@ -1,4 +1,6 @@
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=fvny)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fvny&style=for-the-badge&color=blue" alt="Profile view counter">
+</p>
 <h1 align="center">Hi there 👋, I'm <span style="color:#4290FF">.fvny</span></h1>
 <h3 align="center">🇨🇿 Czech | 💻 Developer</h3>
 
