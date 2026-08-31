@@ -1,8 +1,9 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fvny&style=for-the-badge&color=blue" alt="Profile view counter">
-</p>
-<h1 align="center">Hi there 👋, I'm <span style="color:#4290FF">.fvny</span></h1>
-<h3 align="center">🇨🇿 Czech | 💻 Developer</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/User-fvny-5B2333?style=flat&logo=github&logoColor=white&labelColor=555555" alt="User" />
+  <img src="https://komarev.com/ghpvc/?username=fvny&label=Views&color=5B2333&style=flat" alt="Views" />
+</div>
+<h1 align="center">Hi there 👋, I'm <span style="color:#4290FF">fd</span></h1>
+<h3 align="center">💻 Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=4290FF&center=true&vCenter=true&width=1080&lines=The+languages+I+know;JavaScript+%7C+Lua+%7C+Python+%7C+HTML+%7C+CSS;I+%F0%9F%A9%B5+Clean+Code" alt="Typing SVG" />
@@ -12,7 +13,7 @@
 
 ### 🧠 About Me
 
-- 👋 I'm **fv** - 📍 From **Czechia 🇨🇿**
+- 👋 I'm **fd** - 📍 From **Czechia**
 - 💻 Focused on web & game development  
 - 🌱 Currently learning **C#**
 
