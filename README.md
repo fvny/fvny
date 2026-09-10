@@ -50,7 +50,7 @@
     </tr>
     <tr>
       <td><b>Quantum RP</b></td>
-      <td>Senior Developer | <i>Peak 190 players, avg 120</i></td>
+      <td>Head Developer | <i>Peak 190 players, avg 120</i></td>
     </tr>
     <tr>
       <td><b>Retrovax | FiveM</b></td>
