@@ -45,12 +45,16 @@
   </thead>
   <tbody>
     <tr>
+      <td><b>Quantum | FiveM</b></td>
+      <td>Head Developer | <i>Peak 190 players, avg 120</i></td>
+    </tr>
+    <tr>
       <td><b>Retrovax | FiveM</b></td>
       <td>Senior Developer | <i>Ended - 100-150 active players</i></td>
     </tr>
     <tr>
-            <td><b>Fluid</b></td>
-      <td>Developer | Active - https://forum.cfx.re/u/fidu/</i></td>
+      <td><b>Fluid</b></td>
+      <td>Developer | Active - https://forum.cfx.re/u/fidu/</td>
     </tr>
     <tr>
       <td>Whisper Roleplay</td>
