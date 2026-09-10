@@ -1,70 +1,67 @@
+<h1 align="center">👋, I'm <span style="color:#5B2333">nyxo</span></h1>
+
 <div align="center">
-  <img src="https://img.shields.io/badge/User-fvny-5B2333?style=flat&logo=github&logoColor=white&labelColor=555555" alt="User" />
-  <img src="https://komarev.com/ghpvc/?username=fvny&label=Views&color=5B2333&style=flat" alt="Views" />
-</div>
-<h1 align="center">Hi there 👋, I'm <span style="color:#4290FF">fd</span></h1>
-<h3 align="center">💻 Developer</h3>
+
+<h3><img src="https://api.iconify.design/heroicons/code-bracket-20-solid.svg?color=%235B2333" width="24" height="24" align="center" style="background: transparent;" /> Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=4290FF&center=true&vCenter=true&width=1080&lines=The+languages+I+know;JavaScript+%7C+Lua+%7C+Python+%7C+HTML+%7C+CSS;I+%F0%9F%A9%B5+Clean+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=5B2333&center=true&vCenter=true&width=600&lines=Building+clean+%26+modern+experiences;Full-Stack+Web+%26+FiveM+Developer;Turning+complex+ideas+into+clean+code" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 About Me
+<h3><img src="https://api.iconify.design/heroicons/user-20-solid.svg?color=%235B2333" width="22" height="22" align="center" style="background: transparent;" /> About Me</h3>
 
-- 👋 I'm **fd** - 📍 From **Czechia**
-- 💻 Focused on web & game development  
-- 🌱 Currently learning **C#**
+<p align="center">
+  <img src="https://api.iconify.design/heroicons/finger-print-20-solid.svg?color=%235B2333" width="18" height="18" align="center" style="background: transparent;" /> &nbsp;Hey, I'm <b>nyxo</b> — Full Stack Web & FiveM Developer based in the <b>Czech Republic</b><br />
+  <img src="https://api.iconify.design/heroicons/envelope-20-solid.svg?color=%235B2333" width="18" height="18" align="center" style="background: transparent;" /> &nbsp;Focused on crafting <b>high performance scripts</b>, clean <b>NUI interfaces</b> & modern web apps<br />
+  <img src="https://api.iconify.design/heroicons/face-smile-20-solid.svg?color=%235B2333" width="18" height="18" align="center" style="background: transparent;" /> &nbsp;Always open to <b>new projects</b> & new ideas <i>feel free to reach out!</i>
+</p>
+
+<details>
+  <summary><i><font color="#888888">My Discord & Live Activity</font></i></summary>
+  <br />
+  <p align="center">
+    <a href="https://discord.com/users/1461485178219139258">
+      <img src="https://lanyard.cnrad.dev/api/1461485178219139258?bg=0d1117&hideBadges=true&showDisplayName=true&hideTag=true" alt="Discord Presence" />
+    </a>
+  </p>
+</details>
 
 ---
 
-### 💻 Languages & Tools
-
+<h4 align="center"><img src="https://api.iconify.design/heroicons/book-open-20-solid.svg?color=%235B2333" width="18" height="18" align="center" style="background: transparent;" /> Languages</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Lua-333?style=for-the-badge&logo=lua&logoColor=2C2D72" />
-  <img src="https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/React-333?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,lua,cs,py,html,css&theme=dark" alt="Languages SVG Icons" />
+  </a>
+</p>
+
+<h4 align="center"><img src="https://api.iconify.design/heroicons/cpu-chip-20-solid.svg?color=%235B2333" width="18" height="18" align="center" style="background: transparent;" /> Frameworks & Environment</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,astro,react,nodejs,git,vscode&theme=dark" alt="Frameworks & Environment SVG Icons" />
+  </a>
+  <br /><br />
+  <img src="https://img.shields.io/badge/FiveM-0d1117?style=for-the-badge&logo=fivem&logoColor=5B2333" alt="FiveM" />
 </p>
 
 ---
 
-<h3 align="center">📽️ My Projects</h3>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=fvny&theme=dark&background=0d1117&border=0d1117&stroke=5B2333&ring=5B2333&fire=5B2333&currStreakNum=ffffff" alt="GitHub Streak Stats" />
+</p>
 
-<div align="center">
+---
 
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Aspect | FiveM</b></td>
-      <td>Developer | <i>In Active Development</i></td>
-    </tr>
-    <tr>
-      <td><b>Quantum RP</b></td>
-      <td>Head Developer | <i>Peak 190 players, avg 120</i></td>
-    </tr>
-    <tr>
-      <td><b>Retrovax | FiveM</b></td>
-      <td>Senior Developer | <i>Ended - 100-150 active players</i></td>
-    </tr>
-    <tr>
-      <td><b>Fluid</b></td>
-      <td>Developer | Active - https://forum.cfx.re/u/fidu/</td>
-    </tr>
-    <tr>
-      <td>Whisper Roleplay</td>
-      <td>Head Developer | Scrapped</td>
-    </tr>
-  </tbody>
-</table>
+<h3><img src="https://api.iconify.design/heroicons/folder-20-solid.svg?color=%235B2333" width="22" height="22" align="center" style="background: transparent;" /> My Projects</h3>
+
+| Project | Role | Status & Impact |
+| :--- | :--- | :--- |
+| **Aspect \| FiveM** | Developer | <img src="https://img.shields.io/badge/Status-Active_Development-5B2333?style=flat-square&labelColor=161616" /> |
+| **Quantum \| FiveM** | Head Developer | <img src="https://img.shields.io/badge/Peak-190_Players-5B2333?style=flat-square&labelColor=161616" /> <img src="https://img.shields.io/badge/Average-120_Players-27252c?style=flat-square&labelColor=161616" /> |
+| **Retrovax \| FiveM** | Senior Developer | <img src="https://img.shields.io/badge/Status-Ended-333333?style=flat-square&labelColor=161616" /> <img src="https://img.shields.io/badge/Active-100--150_Players-5B2333?style=flat-square&labelColor=161616" /> |
+| **Fluid** | Developer | <img src="https://img.shields.io/badge/Status-Active-5B2333?style=flat-square&labelColor=161616" /> <a href="https://forum.cfx.re/u/fidu/"><img src="https://img.shields.io/badge/Cfx.re-Profile-5B2333?style=flat-square&labelColor=161616&logo=fivem&logoColor=white" alt="Cfx.re Profile" /></a> |
+| **Whisper Roleplay** | Head Developer | <img src="https://img.shields.io/badge/Status-Scrapped-441822?style=flat-square&labelColor=161616" /> |
 
 </div>
